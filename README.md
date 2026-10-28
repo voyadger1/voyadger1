@@ -4,7 +4,7 @@ I create effective software tools that help biologists automate data analysis, a
 
 ---
 
-### Education & Interdisciplinary Background
+## Education & Interdisciplinary Background
 
 * **Master’s Program:** Biophysics, bioinformatics, and neurotechnologies
 * **Bachelor’s program:** Applied Informatics
@@ -13,7 +13,7 @@ I create effective software tools that help biologists automate data analysis, a
 
 ---
 
-### Areas of Interest & Development Focus
+## Areas of Interest & Development Focus
 
 * **Bioinformatics Software:** Development of utilities, plugins, and CLI/GUI tools for processing biodata.
 * **Pipeline Engineering:** Building reproducible analysis pipelines (NGS, transcriptomics, genomics).
@@ -22,7 +22,7 @@ I create effective software tools that help biologists automate data analysis, a
 
 ---
 
-### Technology stack
+## Technology stack
 
 * **Programming languages:** TypeScript, Python, R, Bash
 * **Bioinformatics & Pipelines:** Nextflow, Biopython, Snakemake, Samtools / Bedtools
@@ -31,7 +31,7 @@ I create effective software tools that help biologists automate data analysis, a
 
 ---
 
-### Contact information and collaboration inquiries
+## Contact information and collaboration inquiries
 
 I am always open to interesting scientific projects, commercial development, and discussions about new ideas at the intersection of biology and IT!
 
